@@ -1,0 +1,11 @@
+C:\Users\lxl\Desktop\C#\CSharpStudy\CSharpStudy\bin\Debug\netcoreapp2.1\CSharpStudy.deps.json
+C:\Users\lxl\Desktop\C#\CSharpStudy\CSharpStudy\bin\Debug\netcoreapp2.1\CSharpStudy.runtimeconfig.json
+C:\Users\lxl\Desktop\C#\CSharpStudy\CSharpStudy\bin\Debug\netcoreapp2.1\CSharpStudy.runtimeconfig.dev.json
+C:\Users\lxl\Desktop\C#\CSharpStudy\CSharpStudy\bin\Debug\netcoreapp2.1\CSharpStudy.dll
+C:\Users\lxl\Desktop\C#\CSharpStudy\CSharpStudy\bin\Debug\netcoreapp2.1\CSharpStudy.pdb
+C:\Users\lxl\Desktop\C#\CSharpStudy\CSharpStudy\obj\Debug\netcoreapp2.1\CSharpStudy.csprojAssemblyReference.cache
+C:\Users\lxl\Desktop\C#\CSharpStudy\CSharpStudy\obj\Debug\netcoreapp2.1\CSharpStudy.csproj.CoreCompileInputs.cache
+C:\Users\lxl\Desktop\C#\CSharpStudy\CSharpStudy\obj\Debug\netcoreapp2.1\CSharpStudy.AssemblyInfoInputs.cache
+C:\Users\lxl\Desktop\C#\CSharpStudy\CSharpStudy\obj\Debug\netcoreapp2.1\CSharpStudy.AssemblyInfo.cs
+C:\Users\lxl\Desktop\C#\CSharpStudy\CSharpStudy\obj\Debug\netcoreapp2.1\CSharpStudy.dll
+C:\Users\lxl\Desktop\C#\CSharpStudy\CSharpStudy\obj\Debug\netcoreapp2.1\CSharpStudy.pdb
