@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lxl\\Desktop\\C#\\CSharpStudy\\CSharpStudy\\CSharpStudy.csproj",
+      "projectUniqueName": "C:\\Users\\lxl\\Desktop\\MyGithub\\.Net\\CSharpStudy\\CSharpStudy\\CSharpStudy.csproj",
       "projectName": "CSharpStudy",
-      "projectPath": "C:\\Users\\lxl\\Desktop\\C#\\CSharpStudy\\CSharpStudy\\CSharpStudy.csproj",
+      "projectPath": "C:\\Users\\lxl\\Desktop\\MyGithub\\.Net\\CSharpStudy\\CSharpStudy\\CSharpStudy.csproj",
       "packagesPath": "C:\\Users\\lxl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lxl\\Desktop\\C#\\CSharpStudy\\CSharpStudy\\obj\\",
+      "outputPath": "C:\\Users\\lxl\\Desktop\\MyGithub\\.Net\\CSharpStudy\\CSharpStudy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

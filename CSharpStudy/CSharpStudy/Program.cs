@@ -7,6 +7,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Threading;
 
 namespace CSharpStudy
@@ -16,34 +17,14 @@ namespace CSharpStudy
     {
         static void Main(string[] args)
         {
-            YieldCollection yieldCollection = new YieldCollection();
-            foreach (var item in yieldCollection)
+            Hashtable hashtable = new Hashtable();
+            hashtable.Add(1, "str");
+            hashtable.Add("lll", 123);
+            foreach (var item in hashtable.Keys)
             {
-
+                Console.WriteLine(hashtable[item]);
             }
-
             Console.ReadKey();
-        }
-    }
-
-    
-
-    public class YieldCollection : IEnumerable
-    {
-        int[] arrs = new int[] { 1, 2, 3, 4, 5, 6 };
-        public IEnumerator GetEnumerator()
-        {
-            for (int i = 0; i < arrs.Length; i++)
-            {
-                if (i < 5)
-                {
-                    yield return arrs[i];
-                }
-                else
-                {
-                    yield break;
-                }
-            }
         }
     }
 }
